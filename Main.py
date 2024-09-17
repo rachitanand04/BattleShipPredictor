@@ -58,3 +58,5 @@ for i in range(10):
 
 showMap(arr,True)
 plt.close()
+
+print("Hello")
